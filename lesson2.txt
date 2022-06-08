@@ -3,3 +3,7 @@
 This is a text file
 
 This is a text file in branch 1
+
+This is a text file in branch 2 from github.com
+
+This is a text file in local main branch
