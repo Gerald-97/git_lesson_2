@@ -8,4 +8,6 @@ This is a text file in branch 2 from github.com
 
 This is a text file in local main branch
 
-My name is victor
+My name is victor.
+
+Hey, nice to meet you
